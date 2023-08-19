@@ -1,0 +1,16 @@
+Tổng hợp PM nhúng -> lý do chọn FreeRTOS
+Tác vụ vó thể chạy trên RTOS
+
+Xem xét lại tên đề tài có bị trùng không
+Nêu ra tính mới
+
+Trình bay cần rõ hơn
+Liệt kê rõ được chạy trên bộ xử lý nào
+
+Thiets kế sơ đồ khối từ arxml -> board có thể chạy được
+
+Liệt kê trên board test vào tên đề tài 
+
+Must to have Demo: dk toc do tu dong, doc cam bien,...
+
+Dieu chinh ten va muc tieu chinh cua de tai
